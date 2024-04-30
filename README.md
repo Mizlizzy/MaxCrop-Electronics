@@ -1,5 +1,7 @@
 # MaxCrop-Electronics
 MaxCorps Electronics, a mid-sized electronics retailer with operations in multiple regions, faces challenges in sales and shipping operations. To overcome these challenges and enhance overall performance, the Business Analysis Team aims to gain insights from their dataset. Their goal is to reverse negative trends by identifying key areas for improvement and implementing strategic solutions.
+# Disclaimer
+All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities in power Bi
 # Data Description
 Shipping Mode: Determine the most popular shipping mode among customers.
 Region with Highest Sales: Identify the region where the company has the highest sales.
